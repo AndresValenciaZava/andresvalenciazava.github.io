@@ -1,0 +1,64 @@
+# site settings
+title: Andrew
+subtitle:
+email: anvalenciaza@gmail.com
+description: Abstract painter in Toronto On.
+              <br /> My goal is to study and recreate the colour, texture and brushtrokes with spontaneity and expression.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address:
+city: Toronto
+state: "ON"
+zip_code:
+country: Canada
+phone: (1) 123-4567-987
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 5
+
+# social settings
+500px_url:
+facebook_url: https://www.facebook.com/andyfelipe.zava/about
+fb_user: "andyfelipe.zava"
+github_url: https://github.com/Andresvalenciazava
+gitlab_url:
+googleplus_url:
+instagram_url: https://www.instagram.com/Andresvalenciazava/
+insta_user: "Andresvalenciazava"
+linkedin_url: https://www.linkedin.com/
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/Andresvalenciazava
+
+# build settings
+markdown: kramdown
+
+lsi: false
+safe: true
+source: AndresValenciaZava/mypage
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+plugins:
+  - jekyll-mentions
+  - jemoji
+  - jekyll-redirect-from
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-coffeescript
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-paginate
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+sass:
+  style: compressed
