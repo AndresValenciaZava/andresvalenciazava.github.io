@@ -1,7 +1,7 @@
 # site settings
 title: Andrew
 subtitle:
-email: anvalenciaza@gmail.com
+email: david55771@hotmail.com #anvalenciaza@gmail.com
 description: Abstract painter in Toronto On.
               <br /> My goal is to study and recreate the colour, texture and brushtrokes with spontaneity and expression.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -37,7 +37,7 @@ markdown: kramdown
 
 lsi: false
 safe: true
-source: AndresValenciaZava/mypage
+#source: AndresValenciaZava/mypage
 incremental: false
 highlighter: rouge
 gist:

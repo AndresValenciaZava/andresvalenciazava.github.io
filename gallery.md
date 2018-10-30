@@ -51,7 +51,7 @@ show_tile: true
 					<h3>Blue in Yellow</h3>
 				</header>
         <p>Oil on canvas</p>
-        <p>48 x 30"</p>
+        <p>40 x 30"</p>
 				<!-- <ul class="actions">
 					<li><a href="gallery.html" class="button">Learn more</a></li>
 				</ul> -->
@@ -87,7 +87,7 @@ show_tile: true
 					<h3>August</h3>
 				</header>
         <p>Oil on canvas</p>
-        <p>48 x 40"</p>
+        <p>40 x 40"</p>
 				<!-- <ul class="actions">
 					<li><a href="gallery.html" class="button">Learn more</a></li>
 				</ul> -->
