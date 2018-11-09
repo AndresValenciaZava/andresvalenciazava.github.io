@@ -27,8 +27,8 @@ show_tile: true
 <section id="two" class="spotlights">
 
 	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/canva11.jpg" alt="" data-position="center center" />
+		<a href="http://latinosmag.com/la-exposicion-the-fluttering-colours" class="image">
+			<img src="assets/images/artist01.jpg" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
