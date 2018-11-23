@@ -131,7 +131,7 @@
 
 	textarea {
 		padding: 0.5em 0.5em;
-		width: 21em;
+		width: 23em;
 	}
 
 	input[type="checkbox"],
@@ -151,7 +151,7 @@
 			display: inline-block;
 			font-weight: _font(weight);
 			padding-left: (_size(element-height) * 0.6) + 1em;
-			padding-right: 0.75em;
+			padding-right: 0.3em;
 			position: relative;
 
 			&:before {
@@ -165,7 +165,7 @@
 				position: absolute;
 				text-align: center;
 				top: 0;
-				width: (_size(element-height) * 0.6);
+				width: (_size(element-height) * 0.3);
 			}
 		}
 
